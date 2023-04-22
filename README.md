@@ -14,9 +14,9 @@
 ### How to reach me: <strong>(Click the badge to view my profiles)</strong>
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/nondescr1pt)
 <img src="https://img.shields.io/badge/me@mikenedviga.ru-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="me@mikenedviga.ru"> -->
-Telegram: https://t.me/nondescr1pt
-VK: https://vk.com/mike.nedviga
-Email: me@mikenedviga.ru
+Telegram: https://t.me/nondescr1pt <br>
+VK: https://vk.com/mike.nedviga <br>
+Email: me@mikenedviga.ru  <br>
 
 
 # 💻 Tech Stack:
