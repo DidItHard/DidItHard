@@ -6,23 +6,22 @@
 <!-- Running line about some interesing facts of me -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2336BCF7&width=435&lines=%E2%9D%A4%EF%B8%8F+sport%3A+ski%2C+basketball%2C+billiard+;190%2Bcm+tall;Harry+Harison+is+favourite+writer;I+can+juggle+three+oranges+at+once" alt="Typing SVG" /></a>
 
-<!-- 
+
 # 💫 About Me:
-🔹️Welcome to my GitHub account!<br />🔹️I am a Flutter developer with a passion for creating beautiful and functional mobile apps. I am always looking to improve my skills and expand my knowledge of the latest technology trends.<br />🔹️Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration. -->
-
-
-
+🔹️Welcome to my GitHub account!<br />🔹️I am a Flutter developer with a passion for creating beautiful and functional mobile apps. I am always looking to improve my skills and expand my knowledge of the latest technology trends.<br />🔹️Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
 
 
 ### How to reach me: <strong>(Click the badge to view my profiles)</strong>
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/nondescr1pt)
-
-
-<img src="https://img.shields.io/badge/me@mikenedviga.ru-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="me@mikenedviga.ru">
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/nondescr1pt)
+<img src="https://img.shields.io/badge/me@mikenedviga.ru-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="me@mikenedviga.ru"> -->
+Telegram: https://t.me/nondescr1pt
+VK: https://vk.com/mike.nedviga
+Email: me@mikenedviga.ru
 
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DidItHard&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DidItHard&theme=react&hide_border=true)<br/>
