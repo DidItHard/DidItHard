@@ -4,7 +4,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg) -->
 <!-- Running line about some interesing facts of me -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78635&width=435&lines=%E2%9D%A4%EF%B8%8F+sport%3A+ski%2C+basketball%2C+billiard+;190%2Bcm+tall;Harry+Harison+is+favourite+writer;I+can+juggle+three+oranges+at+once" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2336BCF7&width=435&lines=%E2%9D%A4%EF%B8%8F+sport%3A+ski%2C+basketball%2C+billiard+;190%2Bcm+tall;Harry+Harison+is+favourite+writer;I+can+juggle+three+oranges+at+once" alt="Typing SVG" /></a>
 
 <!-- 
 # 💫 About Me:
