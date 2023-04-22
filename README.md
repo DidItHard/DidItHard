@@ -17,7 +17,7 @@
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
 <img src="https://img.shields.io/badge/me@mikenedviga.ru-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="me@mikenedviga.ru">
-![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/nondescr1pt) 
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/nondescr1pt) 
 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
