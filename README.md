@@ -6,7 +6,7 @@
 <!-- Running line about some interesing facts of me -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2336BCF7&width=435&lines=%E2%9D%A4%EF%B8%8F+sport%3A+ski%2C+basketball%2C+billiard+;190%2Bcm+tall;Harry+Harison+is+favourite+writer;I+can+juggle+three+oranges+at+once" alt="Typing SVG" /></a>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin=5/>
 
 🔹️Welcome to my GitHub account!<br />🔹️I am a Flutter developer with a passion for creating beautiful and functional mobile apps. I am always looking to improve my skills and expand my knowledge of the latest technology trends.<br />🔹️Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
 
