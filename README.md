@@ -1,6 +1,6 @@
 <!-- Title -->
 
-<h1 align="center"><img src="https://media.tenor.com/AsMaT54WdP4AAAAi/hi-green.gif", align="left" height="200"/> 
+<h1 align="center"><img src="https://media.tenor.com/AsMaT54WdP4AAAAi/hi-green.gif", align="left" height="150"/> 
 Hi there, I'm Mike Nedviga 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif", height="32"/></h1>
 <!-- <h1 align="center"><img src="https://media.tenor.com/AsMaT54WdP4AAAAi/hi-green.gif", height="60"/>Hi there, I'm Mike Nedviga </h1> -->
