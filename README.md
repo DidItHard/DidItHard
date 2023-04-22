@@ -17,7 +17,7 @@ Hi there, I'm Mike Nedviga
 🔹️Welcome to my GitHub account!<br />🔹️I am a Flutter developer with a passion for creating beautiful and functional mobile apps. I am always looking to improve my skills and expand my knowledge of the latest technology trends.<br />🔹️Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height=150/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center" height=150/>
 
 ### How to reach me:
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/nondescr1pt)
