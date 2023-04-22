@@ -11,7 +11,7 @@
 🔹️Welcome to my GitHub account!<br />🔹️I am a Flutter developer with a passion for creating beautiful and functional mobile apps. I am always looking to improve my skills and expand my knowledge of the latest technology trends.<br />🔹️Check out my repositories to see my work and feel free to connect with me to discuss any potential collaboration.
 
 
-### How to reach me: <strong>(Click the badge to view my profiles)</strong>
+### How to reach me:
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/nondescr1pt)
 <img src="https://img.shields.io/badge/me@mikenedviga.ru-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="me@mikenedviga.ru"> -->
 Telegram: https://t.me/nondescr1pt <br>
