@@ -13,7 +13,7 @@ Hi there, I'm Mike Nedviga
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg) -->
 <!-- Running line about some interesing facts of me -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2336BCF7&width=600&lines=%E2%AD%90+Interesting+facts+of+me+%E2%AD%90;%E2%9D%A4%EF%B8%8F+sport%3A+ski%2C+basketball%2C+billiard+;I'm+190+cm+tall%2C+can't+fit+in+the+doorway;Harry+Harison+is+favourite+writer;I+can+juggle+three+oranges+at+once" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2336BCF7&width=500&lines=%E2%AD%90+Interesting+facts+of+me+%E2%AD%90;%E2%9D%A4%EF%B8%8F+sport%3A+ski%2C+basketball%2C+billiard+;I'm+190+cm+tall%2C+can't+fit+in+the+doorway;Harry+Harison+is+favourite+writer;I+can+juggle+three+oranges+at+once" alt="Typing SVG"/></a>
 </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height=150/>
