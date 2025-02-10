@@ -22,8 +22,8 @@ Hi there, I'm Mike Nedviga
 ### How to reach me:
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/nondescr1pt)
 <img src="https://img.shields.io/badge/me@mikenedviga.ru-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="me@mikenedviga.ru"> -->
-Telegram: https://t.me/nondescr1pt <br>
-VK: https://vk.com/mike.nedviga <br>
+Telegram: https://t.me/nedv1ga
+<br>
 Email: me@mikenedviga.ru  <br>
 
 
